@@ -8,6 +8,7 @@ Pandas,
 NumPy, 
 Scikit-Learn, 
 Jupyter Notebook
+
 🧠We experimented with SVM, Logistic Regression, and Decision Tree. The final model uses Support Vector Machine (SVM).
 
 📊**Accuracy:** 78%  
