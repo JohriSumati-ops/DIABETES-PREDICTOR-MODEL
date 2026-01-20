@@ -1,6 +1,7 @@
 # 🩺DIABETES-PREDICTOR❤️‍🩹
 A machine learning model to predict the likelihood of diabetes based on patient health data.
 💉This project aims to help identify diabetes risk early by training a machine learning classifier on medical data.
+
 🤖**Tech Stack:** 
 Python, 
 Pandas, 
@@ -8,6 +9,7 @@ NumPy,
 Scikit-Learn, 
 Jupyter Notebook
 🧠We experimented with SVM, Logistic Regression, and Decision Tree. The final model uses Support Vector Machine (SVM).
+
 📊**Accuracy:** 78%  
 📊**Precision:** 75%  
 📊**Recall:** 80%
